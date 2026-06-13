@@ -1,4 +1,7 @@
 ## Hi there 👋
+im Sahil, A machine learning engineer based in India.
+
+i code bcoz its my way to enjoy life to build things
 
 <!--
 **imshaul/imshaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
